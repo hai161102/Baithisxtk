@@ -1,0 +1,5 @@
+ten_va_id = str(input("Nhap ten + id viet lien k dau: "))
+list(ten_va_id)
+t = tuple(ten_va_id)
+print(list(ten_va_id))
+print(t)
